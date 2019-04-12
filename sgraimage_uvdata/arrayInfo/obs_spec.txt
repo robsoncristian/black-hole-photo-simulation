@@ -1,0 +1,510 @@
+FOV_center_RA = 17:45:40.041
+FOV_center_Dec = -29:00:28.118
+FOV_size_RA = 0.006554
+FOV_size_Dec = 0.006554
+
+Corr_int_time = 60
+Corr_chan_bw = 4096
+Time_cells = 0
+Freq_cells = 0
+
+Scan_start = 2017:95:00:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:00:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:00:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:00:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:00:40:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:00:50:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:01:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:01:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:01:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:01:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:01:40:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:01:50:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:02:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:02:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:02:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:02:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:02:40:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:02:50:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:03:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:03:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:03:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:03:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:03:40:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:03:50:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:04:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:04:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:04:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:04:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:04:40:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:04:50:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:05:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:05:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:05:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:05:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:05:40:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:05:50:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:06:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:06:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:06:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:06:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:06:40:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:06:50:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:07:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:07:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:07:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:07:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:07:40:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:07:50:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:08:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:08:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:08:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:08:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:08:40:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:08:50:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:09:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:09:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:09:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:09:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:09:40:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:09:50:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:10:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:10:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:10:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:10:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:10:40:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:10:50:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:11:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:11:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:11:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:11:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:11:40:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:11:50:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:12:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:12:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:12:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:12:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:12:40:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:12:50:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:13:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:13:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:13:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:13:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:13:40:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:13:50:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:14:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:14:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:14:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:14:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:14:40:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:14:50:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:15:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:15:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:15:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:15:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:15:40:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:15:50:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:16:00:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:16:10:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:16:20:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
+Scan_start = 2017:095:16:30:00
+	Scan_duration = 12
+	Channel = 227297:4096
+Endscan
+
