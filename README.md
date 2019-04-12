@@ -16,5 +16,5 @@ O meu objetivo foi mais matar um pouco da curiosidade científica do que explica
 Link das publicações: https://people.csail.mit.edu/klbouman/pw/Publications.html
 
 Gostou?
-Deixe aquela start maneira! :)
+Deixe aquela star maneira! :)
 E, se quiser, contribua com esse código!
